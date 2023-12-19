@@ -26,4 +26,4 @@ Goal: efficiently organize, centralize, and secure digital assets like images an
 
 9. User Support and Training(Feedback and Improvement): -Responsive customer support for addressing user inquiries and issues. -Feedback mechanisms for users to report issues or suggest improvements. -Regular updates and enhancements based on user feedback.
 
-10 Customization and Branding: -Customizable branding elements to align with your organization's visual identity. -Theming options to match the DAM website's design to your website or corporate style.
+10. Customization and Branding: -Customizable branding elements to align with your organization's visual identity. -Theming options to match the DAM website's design to your website or corporate style.
