@@ -87,6 +87,30 @@ For inquiries or support, please contact:
 - **Email**: assetoptimizex@gmail.com
 - **Website**: [AssetOptimizex](https://assetoptimizex.netlify.app/home)
 
+## 📦 Dependencies Used
+
+- Django: Web framework for the backend.
+
+- Django REST Framework: For creating APIs.
+
+- React: JavaScript library for building the frontend.
+
+- TailwindCSS: Utility-first CSS framework for styling.
+
+- JWT: For secure user authentication.
+
+You can install the dependencies with:
+
+Backend:
+
+```bash
+pip install -r requirements.txt
+```
+Frontend:
+```bash
+npm install
+```
+
 ## 🚀 Run the Project Locally
 
 Follow these steps to get your project up and running on your local machine:
