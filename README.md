@@ -1,4 +1,4 @@
-
+![AssetOptimizex](https://i.ibb.co.com/ccvTTmN6/Screenshot-2025-02-05-155218.png)
 # AssetOptimizex
 
 AssetOptimizex is a robust and efficient **Digital Asset Management System** designed to streamline the organization, management, and collaboration of digital assets within an organization. Built with a modern tech stack, it ensures high performance, security, and scalability.
