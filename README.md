@@ -3,7 +3,6 @@
 
 AssetOptimizex is a robust and efficient **Digital Asset Management System** designed to streamline the organization, management, and collaboration of digital assets within an organization. Built with a modern tech stack, it ensures high performance, security, and scalability.
 
----
 
 ## 🌟 Features
 
@@ -17,7 +16,6 @@ AssetOptimizex is a robust and efficient **Digital Asset Management System** des
 - **Asset Permissions**: Control access and manage permissions for assets.
 - **Premium Access**: Upgrade to premium plans with SSLCommerz integration.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -33,10 +31,6 @@ AssetOptimizex is a robust and efficient **Digital Asset Management System** des
 
 ### **Payment Integration**
 - SSLCommerz
-
----
-
-
 
 
 ## 📦 Features Overview
@@ -66,7 +60,6 @@ AssetOptimizex is a robust and efficient **Digital Asset Management System** des
 ### **Premium Access**
 - Upgrade to premium using SSLCommerz for advanced features.
 
----
 
 ## 📧 Email Verification
 - Users registering for an organization account receive a confirmation email.
@@ -74,13 +67,11 @@ AssetOptimizex is a robust and efficient **Digital Asset Management System** des
 - Member join links are sent via email to streamline the onboarding process.
 - Password reset emails are sent with a reset timeout of 900 seconds.
 
----
 
 ## 🔒 Security
 - JWT-based authentication ensures secure and stateless sessions.
 - Role-based permissions for organization members.
 
----
 
 
 ## 💡 Contributors
@@ -90,13 +81,64 @@ AssetOptimizex is a robust and efficient **Digital Asset Management System** des
 | Mainul Hasan   | Team leader    |
 | Abdul Hasib    | Team member    |
 
----
 
 ## 📬 Contact
 For inquiries or support, please contact:
 - **Email**: assetoptimizex@gmail.com
 - **Website**: [AssetOptimizex](https://assetoptimizex.netlify.app/home)
 
----
+## 🚀 Run the Project Locally
+
+Follow these steps to get your project up and running on your local machine:
+
+### Prerequisites
+
+Make sure you have the following installed:
+- [Node.js](https://nodejs.org/) (for React frontend)
+- [Python](https://www.python.org/) (for Django backend)
+- [Git](https://git-scm.com/)
+
+
+### 1. Clone the Repository
+
+Start by cloning the repository to your local machine using the following command:
+
+```bash
+git clone https://github.com/abdulHasib2030/AssetOptimizeX.git
+```
+
+### 2. Set up the Backend
+
+Navigate to the backend directory and install the required Python packages:
+
+```bash
+cd asset_optimizeX_server
+pip install -r requirements.txt
+```
+
+### 3. Start the Backend Server
+
+Once the dependencies are installed, run the Django development server with the following command:
+
+```bash
+python manage.py runserver
+```
+
+### 4. Set up the Frontend
+
+Next, navigate to the frontend directory and install the required JavaScript packages:
+
+```bash
+cd asset_optimizeX_client
+npm install
+```
+
+### 5. Start the Frontend Server
+
+After the dependencies are installed, start the React development server by running:
+
+```bash
+npm run dev
+```
 
 
